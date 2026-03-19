@@ -26,17 +26,18 @@ Refer To bom.csv
 
 ANY SORT OF EXTERNAL WIRING IS NOT NEEDED BUT IF YOU WANT TO KNOW HOW IS THIS WIRED .  Go to the schematic file in the PCB folder or look at the above attached Image .
 
+-----------------------------------------------------------------
 **Soldering**  
 
 As u have to hand solder all yourself , I would recommend to first solder the PICO on board, then the OLED display and then the keys .
-
+-----------------------------------------------------
 **Firmware**
 > Then By pressing boot button on the Pico , insert the able in it with other end on PC end
 
 > Flash The .py fiirware file in it .
 
 > This would make the Pico know what it need to do
-
+---------------------------------------------
 **Assembling**
 
 > Now for completing the project , U'll need to assemble the CAD to finalise ther project
