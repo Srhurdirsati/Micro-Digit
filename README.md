@@ -38,7 +38,7 @@ No external wiring is needed, but you can check the schematic in the PCB folder 
 
 > Then By pressing boot button on the Pico , insert the able in it with other end on PC end
 
-> Flash The .py fiirware file in it .
+> Flash The .py firmware file in it .
 
 > This would make the Pico know what it need to do.
 
