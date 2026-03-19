@@ -1,7 +1,7 @@
 # Micro Digit 
 
 This project is my take on a keyboad; it is orthogonal keyboard with fancy knobs (cause who doesn't like knobs).
-The reason I made this project is because I have never loved the keyboard I have had for years now, and I have always wanted to try an orthongOnal keyboard. This keyboard is based on the creator keyboard by work louder but I am not paying $350 for a keyboard when I can just build one under $100
+The reason I made this project is because I have never loved the keyboard I have had for years now, and I have always wanted to try an orthongonal keyboard. This keyboard is based on the creator keyboard by work louder but I am not paying $350 for a keyboard when I can just build one under $100
 
 ## Bill of Materials
 
