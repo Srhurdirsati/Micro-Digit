@@ -24,7 +24,7 @@ Refer To bom.csv
 
 ## How To Set Up
 
-ANY SORT OF EXTERNAL WIRING IS NOT NEEDED BUT IF YOU WANT TO KNOW HOW IS THIS WIRED .  Go to the schematic file in the PCB folder or look at the above attached Image .
+No external wiring is needed, but you can check the schematic in the PCB folder above for more details.
 
 -----------------------------------------------------------------
 
@@ -35,6 +35,7 @@ ANY SORT OF EXTERNAL WIRING IS NOT NEEDED BUT IF YOU WANT TO KNOW HOW IS THIS WI
 -----------------------------------------------------
 
 **Firmware**
+
 > Then By pressing boot button on the Pico , insert the able in it with other end on PC end
 
 > Flash The .py fiirware file in it .
