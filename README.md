@@ -1,14 +1,14 @@
-## Micro Digit 
+# Micro Digit 
 
 This project is my take on a keyboad; it is orthogonal keyboard with fancy knobs (cause who doesn't like knobs).
 The reason I made this project is beacuse I have never loved the keyboard I have had for years now, and I have always wanted to try an orthongOnal keyboard. This keyboard is based on the creator keyboard by work louder but I am not paying $350 for a keyboard when I can just build one under $100
 
-# Bill of Materials
+## Bill of Materials
 
 Refer To bom.csv
 
 
-# Images
+## Images
 
 <img width="1898" height="655" alt="image" src="https://github.com/user-attachments/assets/2fd6d8cf-64bc-4f70-8d90-799f32ed7378" />
 
@@ -22,20 +22,20 @@ Refer To bom.csv
 
 <img width="1643" height="898" alt="image" src="https://github.com/user-attachments/assets/387edd09-23ef-40ac-b36a-f2fa524c653d" />
 
-## How To Use 
+## How To Set Up
 
 ### Soldering  
 
 As u have to hand solder all yourself , I would recommend to first solder the PICO on board, then the OLED display and then the keys .
 
-## Firmware
+### Firmware
 > Then By pressing boot button on the Pico , insert the able in it with other end on PC end
 
 > Flash The .ino fiirware file in it .
 
 > This would make the Pico know what it need to do
 
-## Assembling 
+### Assembling 
 
 > Now for completing the project , U'll need to assemble the CAD to finalise ther project
 
