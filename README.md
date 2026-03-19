@@ -1,6 +1,6 @@
 # Description of My Project
-This project is my take on a keyboad; it is orthognal, low profile keyboard with fancy knobs (cause who doesn't like knobs).
-The reason I made this project is beacuse I have never loved the keyboard I have had for years now, and I have always wanted to try an orthongnal keyboard. This keyboard is based on the creator keyboard by work louder but I am not paying $350 for a keyboard when I can just build one!
+This project is my take on a keyboad; it is orthogonal keyboard with fancy knobs (cause who doesn't like knobs).
+The reason I made this project is beacuse I have never loved the keyboard I have had for years now, and I have always wanted to try an orthongOnal keyboard. This keyboard is based on the creator keyboard by work louder but I am not paying $350 for a keyboard when I can just build one under $100
 
 # Bill of Materials
 
@@ -21,6 +21,30 @@ Refer To bom.csv
 
 <img width="1643" height="898" alt="image" src="https://github.com/user-attachments/assets/387edd09-23ef-40ac-b36a-f2fa524c653d" />
 
+## How To Use 
+
+### Soldering  
+
+As u have to hand solder all yourself , I would recommend to first solder the PICO on board, then the OLED display and then the keys .
+
+## Firmware
+> Then By pressing boot button on the Pico , insert the able in it with other end on PC end
+
+> Flash The .ino fiirware file in it .
+
+> This would make the Pico know what it need to do
+
+## Assembling 
+
+> Now for completing the project , U'll need to assemble the CAD to finalise ther project
+
+>  Start with putting the PCB in Base part .
+
+> After that put the Top plate carefully ( Don't scratch PCB or OLED )
+
+> Lock Everyting in place with M2 screws .
+
+NOW EVERYTHING IS SET UP FINALLY AND THE PROJECT IS COMPLETE . 
 
 
 ` Total = $105 `
