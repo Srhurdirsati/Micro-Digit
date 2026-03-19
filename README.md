@@ -30,7 +30,7 @@ No external wiring is needed, but you can check the schematic in the PCB folder 
 
 **Soldering**  
 
-#### *As u have to hand solder all yourself , I would recommend to first solder the PICO on board, then the OLED display and then the keys .*
+#### *As you have to hand solder all yourself , I would recommend to first solder the PICO on board, then the OLED display and then the keys .*
 
 -----------------------------------------------------
 
