@@ -1,7 +1,7 @@
 # Micro Digit 
 
 This project is my take on a keyboad; it is orthogonal keyboard with fancy knobs (cause who doesn't like knobs).
-The reason I made this project is beacuse I have never loved the keyboard I have had for years now, and I have always wanted to try an orthongOnal keyboard. This keyboard is based on the creator keyboard by work louder but I am not paying $350 for a keyboard when I can just build one under $100
+The reason I made this project is because I have never loved the keyboard I have had for years now, and I have always wanted to try an orthongOnal keyboard. This keyboard is based on the creator keyboard by work louder but I am not paying $350 for a keyboard when I can just build one under $100
 
 ## Bill of Materials
 
@@ -23,6 +23,8 @@ Refer To bom.csv
 <img width="1643" height="898" alt="image" src="https://github.com/user-attachments/assets/387edd09-23ef-40ac-b36a-f2fa524c653d" />
 
 ## How To Set Up
+
+ANY SORT OF EXTERNAL WIRING IS NOT NEEDED BUT IF YOU WANT TO KNOW HOW IS THIS WIRED .  Go to the schematic file in the PCB folder or look at the above attached Image .
 
 ### Soldering  
 
