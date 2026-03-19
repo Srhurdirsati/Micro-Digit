@@ -31,7 +31,7 @@ As u have to hand solder all yourself , I would recommend to first solder the PI
 ### Firmware
 > Then By pressing boot button on the Pico , insert the able in it with other end on PC end
 
-> Flash The .ino fiirware file in it .
+> Flash The .py fiirware file in it .
 
 > This would make the Pico know what it need to do
 
